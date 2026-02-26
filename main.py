@@ -1,4 +1,4 @@
-https://github.com/roman-pk/To-Do-App-Python-Flaskfrom flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for
 import pandas as pd
 import random
 import string
