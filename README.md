@@ -1,3 +1,3 @@
 # AWS Training
 
-![AWS Training](./image.png)
+![AWS Training Image](image.png)
